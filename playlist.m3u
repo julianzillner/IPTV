@@ -10,3 +10,5 @@ https://media.rtvwesterwolde.nl/hls/live/index.m3u8
 https://wowza2.videostreamingwowza.com/Groningen1/Groningen1/chunklist_w1376201246.m3u8
 #EXTINF:-1, Radio Veronica 
 https://radioveronica-nl.prd.talpatvcdn.nl/2a57a63df6e24b20a8b6b5f03b848d63/index_3.m3u8
+#EXTINF:-1, Das Ding
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master-720p-3328.m3u8
