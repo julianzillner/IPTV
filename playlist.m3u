@@ -26,3 +26,52 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master-720p-33
 #EXTINF:-1 tvg-name="Radio 10" tvg-id="radio10.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Radio_10_logo_2019.svg/1200px-Radio_10_logo_2019.svg.png", Radio 10
 https://radio10-nl.prd.talpatvcdn.nl/f764c996d5ee4099883726a4ddb72eca/index_3.m3u8
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="ANTENNE PASSAU" group-title="Deutschland" radio="true" tvg-logo="https://assets.laut.fm/c7fe827753f6728cd24a6fe06d216ae8?t=_640x640",ANTENNE PASSAU
+https://stream.laut.fm/antenne-passau
+
+
+#EXTINF:-1 tvg-name="BR24" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png",BR24
+https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+
+
+#EXTINF:-1 tvg-name="BR24 live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png",BR24 live
+https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
+
+
+#EXTINF:-1 tvg-name="Bayern 1" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1
+https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid
+
+
+#EXTINF:-1 tvg-name="Bayern 2 Nord" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2 Nord
+https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid
+
+
+#EXTINF:-1 tvg-name="Bayern 3" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png",Bayern 3
+https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
+
+
+#EXTINF:-1 tvg-name="BR Heimat" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png",BR Heimat
+https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
+
+
+#EXTINF:-1 tvg-name="BR-Klassik" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png",BR-Klassik
+https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
+
+
+#EXTINF:-1 tvg-name="PULS" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png",PULS
+https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
+
+
+#EXTINF:-1 tvg-name="ANTENNE BAYERN" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN
+http://mp3channels.webradio.antenne.de:80/antenne
+
+
+#EXTINF:-1 tvg-name="ROCK ANTENNE" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE
+http://mp3channels.webradio.rockantenne.de/rockantenne
