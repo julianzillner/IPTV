@@ -26,6 +26,9 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master-720p-33
 #EXTINF:-1 tvg-name="Radio 10" tvg-id="radio10.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Radio_10_logo_2019.svg/1200px-Radio_10_logo_2019.svg.png", Radio 10
 https://radio10-nl.prd.talpatvcdn.nl/f764c996d5ee4099883726a4ddb72eca/index_3.m3u8
 
+#EXTINF:-1 tvg-name="Kronehit TV" tvg-id="kronehit.at" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kronehit_Logo2018_Nachtblau_rgb.svg/2000px-Kronehit_Logo2018_Nachtblau_rgb.svg.png", Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="Der Aktionär TV" tvg-id="deraktionaertv.de" group-title="Börse" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/aktionaer-tv-sender-logo-275883.png", Der Aktionär TV
 https://live2.telvi.de/hls/aktionaertv_hd720.m3u8
@@ -35,6 +38,7 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&reb
 
 #EXTINF:-1 tvg-name="Welt" tvg-id="welt.de" group-title="Börse" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Welt_TV_Logo_2016.png", Welt
 https://weltsfclips-vh.akamaihd.net/i/2021/11/03/20211103-150404_TrailerN24DokuNovember_TR000QFN_oL/20211103-150404_TrailerN24DokuNovember_TR000QFN_oL_,2000,1500,1000,200,.mp4.csmil/index_0_av.m3u8?null=0
+
 
 
 
