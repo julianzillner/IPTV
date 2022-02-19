@@ -15,7 +15,7 @@ https://media.rtvwesterwolde.nl/hls/live/index.m3u8
 https://wowza2.videostreamingwowza.com/Groningen1/Groningen1/chunklist_w1376201246.m3u8
 
 
-#EXTINF:-1, Radio Veronica 
+#EXTINF:-1 tvg-name="Radio Veronica" tvg-id="radioveronica.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio-Veronica-logo.png/1200px-Radio-Veronica-logo.png",radio Veronica
 https://radioveronica-nl.prd.talpatvcdn.nl/2a57a63df6e24b20a8b6b5f03b848d63/index_3.m3u8
 
 
