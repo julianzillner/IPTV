@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Qmusic" tvg-id="qmusic.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1, Radio 538
+#EXTINF:-1 tvg-name="Radio 538" tvg-id="538.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/538_logo.png",Radio 538
 https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_3.m3u8
 #EXTINF:-1, RTV Westerwolde
 https://media.rtvwesterwolde.nl/hls/live/index.m3u8
