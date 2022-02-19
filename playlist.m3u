@@ -3,6 +3,8 @@
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
 
+#EXTINF:-1 tvg-name="ZDF" tvg-id="ard.de" group-title="Öffentlich Rechtliche Sender" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/2000px-ZDF_logo.svg.png",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
 
 
