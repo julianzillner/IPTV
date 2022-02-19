@@ -44,6 +44,11 @@ https://weltsfclips-vh.akamaihd.net/i/2021/11/03/20211103-150404_TrailerN24DokuN
 
 
 
+
+#EXTINF:-1 tvg-name="Planai TV" tvg-id="planai.at" group-title="Webcams" tvg-logo="https://static.panomax.com/instances/resources/1521/default/7ecfb6836a482243bd2a495857e4a337.png", Planai TV
+http://583548fa0d82b.streamlock.net/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="Schmitten Zell am See" tvg-id="zellamsee.at" group-title="Webcams" tvg-logo="https://d18z89ggtjsooz.cloudfront.net/cache-buster-1598281289/website/var/tmp/image-thumbnails/220000/221345/thumb__event-teaser/logo-neu.png", Schmitten Zell am See
 http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
 
