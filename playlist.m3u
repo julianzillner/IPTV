@@ -32,10 +32,11 @@ https://radio10-nl.prd.talpatvcdn.nl/f764c996d5ee4099883726a4ddb72eca/index_3.m3
 
 
 
+#EXTINF:-1 tvg-name="Radio Breitenberg" group-title="Deutschland" radio="true" tvg-logo="https://julianzillner.github.io/tvlist/images/radiobreitenberglogo.png",Radio Breitenberg
+https://stream.laut.fm/breitenberg
 
 #EXTINF:-1 tvg-name="ANTENNE PASSAU" group-title="Deutschland" radio="true" tvg-logo="https://julianzillner.github.io/tvlist/images/antennepassaulogo.png",ANTENNE PASSAU
 https://stream.laut.fm/antenne-passau
-
 
 #EXTINF:-1 tvg-name="BR24" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png",BR24
 https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
