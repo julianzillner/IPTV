@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ARD" tvg-id="ard.de" group-title="Öffentlich Rechtliche Sender" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Das_Erste_HD_Corner-Logo_2015.png",Qmusic
+#EXTINF:-1 tvg-name="ARD" tvg-id="ard.de" group-title="Öffentlich Rechtliche Sender" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Das_Erste_HD_Corner-Logo_2015.png",ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
+
+
 
 
 
