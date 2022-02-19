@@ -29,7 +29,7 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master-720p-33
 https://radio10-nl.prd.talpatvcdn.nl/f764c996d5ee4099883726a4ddb72eca/index_3.m3u8
 
 //Radio
-
+#EXTM3U
 #EXTINF:-1 tvg-name="BR24" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png",BR24
 https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
 #EXTINF:-1 tvg-name="BR24 live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png",BR24 live
