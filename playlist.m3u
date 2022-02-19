@@ -11,6 +11,12 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 
+#EXTINF:-1 tvg-name="Niederbayern TV Passau" tvg-id="br.de" group-title="Öffentlich Rechtliche Sender" tvg-logo="https://api.lead-hub.de/imgs/99a87811c2542bb58d65b9c736569b6bae976069f8e891ca129469fd751f02b2.png",Niederbayern TV Passau
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/chunklist_w2036746766_b3628000.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-name="Qmusic" tvg-id="qmusic.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic
