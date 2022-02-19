@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="logo.png",ARD HD
 #EXTINF:-1, Qmusic NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1, Radio 538
@@ -7,4 +8,5 @@ https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_3.m
 https://media.rtvwesterwolde.nl/hls/live/index.m3u8
 #EXTINF:-1, Groningen 1
 https://wowza2.videostreamingwowza.com/Groningen1/Groningen1/chunklist_w1376201246.m3u8
-
+#EXTINF:-1, Radio Veronica 
+https://radioveronica-nl.prd.talpatvcdn.nl/2a57a63df6e24b20a8b6b5f03b848d63/index_3.m3u8
