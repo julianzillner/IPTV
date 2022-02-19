@@ -22,4 +22,7 @@ https://radioveronica-nl.prd.talpatvcdn.nl/2a57a63df6e24b20a8b6b5f03b848d63/inde
 #EXTINF:-1 tvg-name="Das Ding" tvg-id="radioveronica.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dasding_2011.png", Das Ding
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master-720p-3328.m3u8
 
+#EXTINF:-1 tvg-name="Sunshine Live Radio" tvg-id="radioveronica.nl" group-title="Visual Radio" tvg-logo="https://yt3.ggpht.com/5El1YVGCfbZxuQrhFZUaynaGr2bCHHI3IGHQhHWemGAsujd307XyoWPjbs8tlMd8hMxVeweFRg=s900-c-k-c0x00ffffff-no-rj", Sunshine Live Radio
+https://d1ymi26ma8va5x.cloudfront.net/6c71c34a5dd92fc43b69_sunshineliveradio_44741520236_1645210918/chunked/index-muted-B3F7CV7PXZ.m3u8
+
 
