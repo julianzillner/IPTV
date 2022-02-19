@@ -1,5 +1,3 @@
-//Visual Radio
-
 #EXTM3U
 #EXTINF:-1 tvg-name="Qmusic" tvg-id="qmusic.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
@@ -28,4 +26,3 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master-720p-33
 #EXTINF:-1 tvg-name="Radio 10" tvg-id="radio10.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Radio_10_logo_2019.svg/1200px-Radio_10_logo_2019.svg.png", Radio 10
 https://radio10-nl.prd.talpatvcdn.nl/f764c996d5ee4099883726a4ddb72eca/index_3.m3u8
 
-//Radio
