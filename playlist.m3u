@@ -27,6 +27,8 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master-720p-33
 https://radio10-nl.prd.talpatvcdn.nl/f764c996d5ee4099883726a4ddb72eca/index_3.m3u8
 
 
+#EXTINF:-1 tvg-name="Der Aktionär TV" tvg-id="deraktionaertv.de" group-title="Börse" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/aktionaer-tv-sender-logo-275883.png", Der Aktionär TV
+https://live2.telvi.de/hls/aktionaertv_hd720.m3u8
 
 
 
