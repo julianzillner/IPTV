@@ -28,14 +28,14 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-name="Radio 538" tvg-id="538.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/538_logo.png",Radio 538
 https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_3.m3u8
 
-
 #EXTINF:-1 tvg-name="RTV Westerwolde" tvg-id="westerwoldeactueel.nl" group-title="Visual Radio" tvg-logo="https://groningen1.org/wp-content/uploads/2017/01/rtvwesterwolde-logo-300x94.png",RTV Westerwolde
 https://media.rtvwesterwolde.nl/hls/live/index.m3u8
 
-
-#EXTINF:-1 tvg-name="Groningen 1" tvg-id="groningen1.nl" group-title="Visual Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/101062.v8.png",Groningen 1
+#EXTINF:-1 tvg-name="Groningen 1" tvg-id="rtvdrenthe.nl" group-title="Visual Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/101062.v8.png",RTV Drenthe
 https://wowza2.videostreamingwowza.com/Groningen1/Groningen1/chunklist_w1376201246.m3u8
 
+#EXTINF:-1 tvg-name="RTV Drenthe" tvg-id="groningen1.nl" group-title="Visual Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/101062.v8.png",Groningen 1
+https://www.rtvdrenthe.nl/img/logo_rtvdrenthe.png
 
 #EXTINF:-1 tvg-name="Radio Veronica" tvg-id="radioveronica.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio-Veronica-logo.png/1200px-Radio-Veronica-logo.png",Radio Veronica
 https://radioveronica-nl.prd.talpatvcdn.nl/2a57a63df6e24b20a8b6b5f03b848d63/index_3.m3u8
