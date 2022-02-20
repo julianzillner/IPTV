@@ -48,11 +48,11 @@ https://weltsfclips-vh.akamaihd.net/i/2021/11/03/20211103-150404_TrailerN24DokuN
 
 
 
-#EXTINF:-1 tvg-name="Qmusic NL" tvg-id="qmusic.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic
+#EXTINF:-1 tvg-name="Qmusic NL" tvg-id="qmusic.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
-#EXTINF:-1 tvg-name="Qmusic BE" tvg-id="qmusic.be" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic
-https://dcs-live-ue4.mp.lura.live/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-4&anvsid=m177635095-ne9ebff9aa6462bc04353c490fe87f352&ts=1645398153&anvtrid=78dbb666aba1d094a03038460a145e23.m3u
+#EXTINF:-1 tvg-name="Qmusic BE" tvg-id="qmusic.be" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic BE
+https://dcs-live-ue4.mp.lura.live/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-4&anvsid=m177635093-n4fc1f1df1591c47aa9d1d50fa9ecc9fc&ts=1645398420&anvtrid=992497f5796396e6518bf72fcaba5ea0
 
 #EXTINF:-1 tvg-name="Radio 538" tvg-id="538.nl" group-title="Visual Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/538_logo.png",Radio 538
 https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_3.m3u8
