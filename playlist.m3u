@@ -9,6 +9,8 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/chunklist_w2036746766_b3628000.m3u8
 #EXTINF:-1 tvg-name="Kika" tvg-id="kika.de" group-title="Julian_TV_Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
+#EXTINF:-1 tvg-name="DAZN 1" tvg-id="dazn.com" group-title="Julian_TV_Germany" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",DAZN 1
+https://list.iptvcat.com/my_list/s/f1173f183cfa947e5d3f816cbb99e859.m3u8
 
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="realmadrid.com" group-title="Julian_TV_Spain" tvg-logo="https://logosmarken.com/wp-content/uploads/2020/11/Real-Madrid-Logo.png",Real Madrid TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8
