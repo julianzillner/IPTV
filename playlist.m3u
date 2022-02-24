@@ -23,6 +23,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-name="NASA TV Media" tvg-id="nasa.com" group-title="Julian_TV_USA" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
+#EXTINF:-1 tvg-name="Spacetoon" tvg-id="spacetoon.com" group-title="Julian_TV_Syria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1771675856_b1296000_slAR.m3u8
 
 #EXTINF:-1 tvg-name="Der Aktionär TV" tvg-id="deraktionaertv.de" group-title="Julian_TV_Stock_Market" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/aktionaer-tv-sender-logo-275883.png", Der Aktionär TV
 https://live2.telvi.de/hls/aktionaertv_hd720.m3u8
