@@ -66,6 +66,8 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master-720p-33
 https://radio10-nl.prd.talpatvcdn.nl/f764c996d5ee4099883726a4ddb72eca/index_3.m3u8
 #EXTINF:-1 tvg-name="Kronehit TV" tvg-id="kronehit.at" group-title="Julian_TV_Visual_Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kronehit_Logo2018_Nachtblau_rgb.svg/2000px-Kronehit_Logo2018_Nachtblau_rgb.svg.png", Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Ö3" tvg-id="ö3.at" group-title="Julian_TV_Visual_Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/2000px-Hitradio_%C3%963.svg.png", Ö3
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-name="Radio Wroclaw" tvg-id="radiowroclaw.pl" group-title="Julian_TV_Visual_Radio" tvg-logo="https://www.phonostar.de/images/auto_created/PR_Radio_Wroclaw184x184.png", Radio Wroclaw
 https://1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8
 
