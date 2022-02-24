@@ -9,8 +9,7 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/chunklist_w2036746766_b3628000.m3u8
 #EXTINF:-1 tvg-name="Kika" tvg-id="kika.de" group-title="Julian_TV_Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
-#EXTINF:-1 tvg-name="DAZN 1" tvg-id="dazn.com" group-title="Julian_TV_Germany" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",DAZN 1
-https://list.iptvcat.com/my_list/s/f1173f183cfa947e5d3f816cbb99e859.m3u8
+
 
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="realmadrid.com" group-title="Julian_TV_Spain" tvg-logo="https://logosmarken.com/wp-content/uploads/2020/11/Real-Madrid-Logo.png",Real Madrid TV
 http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8
@@ -50,7 +49,7 @@ https://weltsfclips-vh.akamaihd.net/i/2021/11/03/20211103-150404_TrailerN24DokuN
 #EXTINF:-1 tvg-name="Qmusic NL" tvg-id="qmusic.nl" group-title="Julian_TV_Visual_Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-name="Qmusic BE" tvg-id="qmusic.be" group-title="Julian_TV_Visual_Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic BE
-https://dcs-live-ue4.mp.lura.live/server/play/GBy52sn59BJUpw223/rendition.m3u8?track=video-4&anvsid=m177635093-n4fc1f1df1591c47aa9d1d50fa9ecc9fc&ts=1645398420&anvtrid=992497f5796396e6518bf72fcaba5ea0
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 #EXTINF:-1 tvg-name="Radio 538" tvg-id="538.nl" group-title="Julian_TV_Visual_Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/538_logo.png",Radio 538
 https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_3.m3u8
 #EXTINF:-1 tvg-name="RTV Westerwolde" tvg-id="westerwoldeactueel.nl" group-title="Julian_TV_Visual_Radio" tvg-logo="https://groningen1.org/wp-content/uploads/2017/01/rtvwesterwolde-logo-300x94.png",RTV Westerwolde
