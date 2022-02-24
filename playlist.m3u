@@ -9,6 +9,8 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/chunklist_w2036746766_b3628000.m3u8
 #EXTINF:-1 tvg-name="Kika" tvg-id="kika.de" group-title="Julian_TV_Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
+#EXTINF:-1 tvg-name="Bundestag TV" tvg-id="bundestag.de" group-title="Julian_TV_Germany" tvg-logo="https://www.bundestag.de/resource/image/567154/16x9/750/422/707c55b851e517d7b1f1b72f30ca9319/nw/polizei_logo.jpg",Bundestag TV
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/chunklist_b4872000_DVR_slde.m3u8
 
 
 #EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="realmadrid.com" group-title="Julian_TV_Spain" tvg-logo="https://logosmarken.com/wp-content/uploads/2020/11/Real-Madrid-Logo.png",Real Madrid TV
