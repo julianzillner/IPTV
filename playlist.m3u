@@ -90,8 +90,8 @@ http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m
 https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/Ichy7SKABS4/chunklist.m3u8?token=EAIY6wE445O6PkCkIUgF.CgdlYXJ0aHR2EAEyC0ljaHk3U0FBQlMwOgtJY2h5N1NLQUJTNA.F8mQ8mCKEXPXi7O4kwUJHHkVvccWf9AAW3Ax6RRpmZkWax3Edz6jIQa4QkblfuBZc3GvD3gRiFJ7fB1_ub9nSw&domain=www.earthtv.com
 #EXTINF:-1 tvg-name="Olympiapark München" tvg-id="münchen.de" group-title="Julian_TV_Webcams" tvg-logo="https://www.bayerischerhof-online.de/wcms/Clients/148201448111618/Images/Resized_15015201511031220_800x600.JPG", Olympiapark München
 https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpL9ItiABPU/chunklist.m3u8?token=EAIY6wE4hZe6PkCkIUgF.CgdlYXJ0aHR2EAEyC0hwTDlJdFlBQlBROgtIcEw5SXRpQUJQVQ.UbXAR8njGdKC0WcvBT4pqdynQ_QodElQECEbtE1-bTsYYdW2aZHC37WjmUC7-3eP8oPFktZrF8g5ZSH-S_wKcg&domain=www.earthtv.com
-
-
+#EXTINF:-1 tvg-name="Washington D.C. Kapitol" tvg-id="thecapitol.com" group-title="Julian_TV_Webcams" tvg-logo="https://image.freepik.com/vektoren-kostenlos/capitol-dome-logo-design-inspiration_20573-108.jpg", Washington D.C. Kapitol
+https://livecdn-us-earthtv-com.global.ssl.fastly.net/edge1/cdnedge/HpMAN7OABPQ/chunklist.m3u8?token=EAIY6wE4vpi6PkCkIUgF.CgdlYXJ0aHR2EAEyC0hwTUFON0tBQlBNOgtIcE1BTjdPQUJQUQ.BrRBJ1mdKN8MqPFECngFk7lO7FlxrFLtkj2MYu1qOjoCBqDRMi61zKUOI9szj7pVGkF1MYMqe4bYJnmeKdYwfQ&domain=www.earthtv.com
 
 #EXTINF:-1 tvg-name="Radio Breitenberg" group-title="Julian_Radio_Germany" radio="true" tvg-logo="https://julianzillner.github.io/tvlist/images/radiobreitenberglogo.png",Radio Breitenberg
 https://stream.laut.fm/breitenberg
