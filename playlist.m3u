@@ -14,6 +14,8 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-id="cnn.com" group-title="Julian_TV_USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Retro TV" tvg-id="retrotv.com" group-title="Julian_TV_USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png",Retro TV
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-name="Heartland" tvg-id="heartland.com" group-title="Julian_TV_USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png",Heartland
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-name="NASA TV Public" tvg-id="nasa.com" group-title="Julian_TV_USA" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA TV Public
