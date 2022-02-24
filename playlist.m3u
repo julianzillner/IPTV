@@ -10,6 +10,9 @@ https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/chunk
 #EXTINF:-1 tvg-name="Kika" tvg-id="kika.de" group-title="Julian_TV_Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
 
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-id="realmadrid.com" group-title="Julian_TV_Spain" tvg-logo="https://logosmarken.com/wp-content/uploads/2020/11/Real-Madrid-Logo.png",Real Madrid TV
+http://154.62.74.11:1935/live/realmadridnntv/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="ABC" tvg-id="abc.com" group-title="Julian_TV_USA" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png",ABC
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-id="cnn.com" group-title="Julian_TV_USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",CNN
