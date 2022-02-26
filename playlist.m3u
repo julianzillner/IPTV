@@ -12,8 +12,6 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Bundestag TV" tvg-id="bundestag.de" group-title="Julian_TV_Germany" tvg-logo="https://www.bundestag.de/resource/image/567154/16x9/750/422/707c55b851e517d7b1f1b72f30ca9319/nw/polizei_logo.jpg",Bundestag TV
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/chunklist_b4872000_DVR_slde.m3u8
 
-
-
 #EXTINF:-1 tvg-name="ABC" tvg-id="abc.com" group-title="Julian_TV_USA" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png",ABC
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-id="cnn.com" group-title="Julian_TV_USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png",CNN
@@ -36,13 +34,6 @@ https://live2.telvi.de/hls/aktionaertv_hd720.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Welt" tvg-id="welt.de" group-title="Julian_TV_Stock_Market" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Welt_TV_Logo_2016.png", Welt
 https://weltsfclips-vh.akamaihd.net/i/2021/11/03/20211103-150404_TrailerN24DokuNovember_TR000QFN_oL/20211103-150404_TrailerN24DokuNovember_TR000QFN_oL_,2000,1500,1000,200,.mp4.csmil/index_0_av.m3u8?null=0
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-name="Qmusic NL" tvg-id="qmusic.nl" group-title="Julian_TV_Visual_Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png",Qmusic NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
@@ -68,15 +59,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-name="Radio Wroclaw" tvg-id="radiowroclaw.pl" group-title="Julian_TV_Visual_Radio" tvg-logo="https://www.phonostar.de/images/auto_created/PR_Radio_Wroclaw184x184.png", Radio Wroclaw
 https://1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-name="Planai TV" tvg-id="planai.at" group-title="Julian_TV_Webcams" tvg-logo="https://static.panomax.com/instances/resources/1521/default/7ecfb6836a482243bd2a495857e4a337.png", Planai TV
 http://583548fa0d82b.streamlock.net/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
