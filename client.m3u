@@ -61,9 +61,9 @@ https://1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8
 http://583548fa0d82b.streamlock.net/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="zellamsee.at" tvg-name="Schmitten Zell am See" tvg-logo="https://d18z89ggtjsooz.cloudfront.net/cache-buster-1598281289/website/var/tmp/image-thumbnails/220000/221345/thumb__event-teaser/logo-neu.png" group-title="FreeTV Webcams", Schmitten Zell am See
 http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
-#EXTINF:-1 tvg-name="Radio Breitenberg" tvg-logo="https://julianzillner.github.io/tvlist/images/radiobreitenberglogo.png" group-title="FreeTV Radio Deutschland",Radio Breitenberg
+#EXTINF:-1 radio="true" tvg-name="Radio Breitenberg" tvg-logo="https://julianzillner.de/wp-content/uploads/photo-gallery/thumb/radiobreitenberg.png" group-title="FreeTV Radio Deutschland",Radio Breitenberg
 https://stream.laut.fm/breitenberg
-#EXTINF:-1 tvg-name="ANTENNE PASSAU" tvg-logo="https://julianzillner.github.io/tvlist/images/antennepassaulogo.png" group-title="FreeTV Radio Deutschland",ANTENNE PASSAU
+#EXTINF:-1 tvg-name="ANTENNE PASSAU" tvg-logo="https://julianzillner.de/wp-content/uploads/photo-gallery/thumb/antennepassau.png" group-title="FreeTV Radio Deutschland",ANTENNE PASSAU
 https://stream.laut.fm/antenne-passau
 #EXTINF:-1 tvg-name="BR24" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png" group-title="FreeTV Radio Deutschland",BR24
 https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
