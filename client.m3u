@@ -1,15 +1,15 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="ard.de" tvg-name="ARD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Das_Erste_HD_Corner-Logo_2015.png" group-title="FreeTV Germany",ARD
+#EXTINF:-1 tvg-id="ard.de" tvg-name="ARD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Das_Erste_HD_Corner-Logo_2015.png" group-title="FreeTV Deutschland",ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/2000px-ZDF_logo.svg.png" group-title="FreeTV Germany",ZDF
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/2000px-ZDF_logo.svg.png" group-title="FreeTV Deutschland",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="br.de" tvg-name="BR Süd HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BR_HD.svg/2000px-BR_HD.svg.png" group-title="FreeTV Germany",BR Süd HD
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR Süd HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BR_HD.svg/2000px-BR_HD.svg.png" group-title="FreeTV Deutschland",BR Süd HD
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="passau.niederbayern.tv" tvg-name="Niederbayern TV Passau" tvg-logo="https://api.lead-hub.de/imgs/99a87811c2542bb58d65b9c736569b6bae976069f8e891ca129469fd751f02b2.png" group-title="FreeTV Germany",Niederbayern TV Passau
+#EXTINF:-1 tvg-id="passau.niederbayern.tv" tvg-name="Niederbayern TV Passau" tvg-logo="https://api.lead-hub.de/imgs/99a87811c2542bb58d65b9c736569b6bae976069f8e891ca129469fd751f02b2.png" group-title="FreeTV Deutschland",Niederbayern TV Passau
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/chunklist_w2036746766_b3628000.m3u8
-#EXTINF:-1 tvg-id="kika.de" tvg-name="Kika" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="FreeTV Germany",Kika
+#EXTINF:-1 tvg-id="kika.de" tvg-name="Kika" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/1200px-Kika_2012.svg.png" group-title="FreeTV Deutschland",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
-#EXTINF:-1 tvg-id="bundestag.de" tvg-name="Bundestag TV" tvg-logo="https://www.bundestag.de/resource/image/567154/16x9/750/422/707c55b851e517d7b1f1b72f30ca9319/nw/polizei_logo.jpg" group-title="FreeTV Germany",Bundestag TV
+#EXTINF:-1 tvg-id="bundestag.de" tvg-name="Bundestag TV" tvg-logo="https://www.bundestag.de/resource/image/567154/16x9/750/422/707c55b851e517d7b1f1b72f30ca9319/nw/polizei_logo.jpg" group-title="FreeTV Deutschland",Bundestag TV
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/chunklist_b4872000_DVR_slde.m3u8
 #EXTINF:-1 tvg-id="abc.com" tvg-name="ABC" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="FreeTV USA",ABC
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -23,7 +23,7 @@ https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/61839
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="nasa.com" tvg-name="NASA TV Media" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="FreeTV USA",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="spacetoon.com" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="FreeTV Syria",Spacetoon
+#EXTINF:-1 tvg-id="spacetoon.com" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="FreeTV Syrien",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1771675856_b1296000_slAR.m3u8
 #EXTINF:-1 tvg-id="deraktionaertv.de" tvg-name="Der Aktionär TV" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/aktionaer-tv-sender-logo-275883.png" group-title="FreeTV Börse", Der Aktionär TV
 https://live2.telvi.de/hls/aktionaertv_hd720.m3u8
@@ -55,31 +55,31 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 tvg-id="radiowroclaw.pl" tvg-name="Radio Wroclaw" tvg-logo="https://www.phonostar.de/images/auto_created/PR_Radio_Wroclaw184x184.png" group-title="FreeTV Visual Radio", Radio Wroclaw
 https://1808506050.rsc.cdn77.org/live/studiorw/chunklist.m3u8
-#EXTINF:-1 tvg-id="planai.at" tvg-name="Planai TV" tvg-logo="https://static.panomax.com/instances/resources/1521/default/7ecfb6836a482243bd2a495857e4a337.png" group-title="Julian_TV_Webcams", Planai TV
+#EXTINF:-1 tvg-id="planai.at" tvg-name="Planai TV" tvg-logo="https://static.panomax.com/instances/resources/1521/default/7ecfb6836a482243bd2a495857e4a337.png" group-title="FreeTV Webcams", Planai TV
 http://583548fa0d82b.streamlock.net/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="zellamsee.at" tvg-name="Schmitten Zell am See" tvg-logo="https://d18z89ggtjsooz.cloudfront.net/cache-buster-1598281289/website/var/tmp/image-thumbnails/220000/221345/thumb__event-teaser/logo-neu.png" group-title="Julian_TV_Webcams", Schmitten Zell am See
+#EXTINF:-1 tvg-id="zellamsee.at" tvg-name="Schmitten Zell am See" tvg-logo="https://d18z89ggtjsooz.cloudfront.net/cache-buster-1598281289/website/var/tmp/image-thumbnails/220000/221345/thumb__event-teaser/logo-neu.png" group-title="FreeTV Webcams", Schmitten Zell am See
 http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
-#EXTINF:-1 tvg-name="Radio Breitenberg" tvg-logo="https://julianzillner.github.io/tvlist/images/radiobreitenberglogo.png" group-title="Julian_Radio_Germany",Radio Breitenberg
+#EXTINF:-1 tvg-name="Radio Breitenberg" tvg-logo="https://julianzillner.github.io/tvlist/images/radiobreitenberglogo.png" group-title="FreeTV Radio Deutschland",Radio Breitenberg
 https://stream.laut.fm/breitenberg
-#EXTINF:-1 tvg-name="ANTENNE PASSAU" tvg-logo="https://julianzillner.github.io/tvlist/images/antennepassaulogo.png" group-title="Julian_Radio_Germany",ANTENNE PASSAU
+#EXTINF:-1 tvg-name="ANTENNE PASSAU" tvg-logo="https://julianzillner.github.io/tvlist/images/antennepassaulogo.png" group-title="FreeTV Radio Deutschland",ANTENNE PASSAU
 https://stream.laut.fm/antenne-passau
-#EXTINF:-1 tvg-name="BR24" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png" group-title="Julian_Radio_Germany",BR24
+#EXTINF:-1 tvg-name="BR24" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png" group-title="FreeTV Radio Deutschland",BR24
 https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
-#EXTINF:-1 tvg-name="BR24 live" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png" group-title="Julian_Radio_Germany",BR24 live
+#EXTINF:-1 tvg-name="BR24 live" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png" group-title="FreeTV Radio Deutschland",BR24 live
 https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
-#EXTINF:-1 tvg-name="Bayern 1" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png" group-title="Julian_Radio_Germany",Bayern 1
+#EXTINF:-1 tvg-name="Bayern 1" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png" group-title="FreeTV Radio Deutschland",Bayern 1
 https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid
-#EXTINF:-1 tvg-name="Bayern 2 Nord" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png" group-title="Julian_Radio_Germany",Bayern 2 Nord
+#EXTINF:-1 tvg-name="Bayern 2 Nord" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png" group-title="FreeTV Radio Deutschland",Bayern 2 Nord
 https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid
-#EXTINF:-1 tvg-name="Bayern 3" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png" group-title="Julian_Radio_Germany",Bayern 3
+#EXTINF:-1 tvg-name="Bayern 3" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png" group-title="FreeTV Radio Deutschland",Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
-#EXTINF:-1 tvg-name="BR Heimat" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png" group-title="Julian_Radio_Germany",BR Heimat
+#EXTINF:-1 tvg-name="BR Heimat" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png" group-title="FreeTV Radio Deutschland",BR Heimat
 https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
-#EXTINF:-1 tvg-name="BR-Klassik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png" group-title="Julian_Radio_Germany",BR-Klassik
+#EXTINF:-1 tvg-name="BR-Klassik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png" group-title="FreeTV Radio Deutschland",BR-Klassik
 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
-#EXTINF:-1 tvg-name="PULS" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png" group-title="Julian_Radio_Germany",PULS
+#EXTINF:-1 tvg-name="PULS" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png" group-title="FreeTV Radio Deutschland",PULS
 https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
-#EXTINF:-1 tvg-name="ANTENNE BAYERN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png" group-title="Julian_Radio_Germany",ANTENNE BAYERN
+#EXTINF:-1 tvg-name="ANTENNE BAYERN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png" group-title="FreeTV Radio Deutschland",ANTENNE BAYERN
 http://mp3channels.webradio.antenne.de:80/antenne
-#EXTINF:-1 tvg-name="ROCK ANTENNE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png" group-title="Julian_Radio_Germany",ROCK ANTENNE
+#EXTINF:-1 tvg-name="ROCK ANTENNE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png" group-title="FreeTV Radio Deutschland",ROCK ANTENNE
 http://mp3channels.webradio.rockantenne.de/rockantenne
