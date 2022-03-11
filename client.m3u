@@ -87,3 +87,5 @@ http://mp3channels.webradio.antenne.de:80/antenne
 http://mp3channels.webradio.rockantenne.de/rockantenne
 #EXTINF:-1 radio="true" tvg-id="radiobonn.de" tvg-name="Radio Bonn/Rhein-Sieg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Radio_Bonn_Rhein-Sieg_Logo.svg/1280px-Radio_Bonn_Rhein-Sieg_Logo.svg.png" group-title="FreeTV Radio Deutschland",Radio Bonn/Rhein-Sieg
 https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high
+#EXTINF:-1 radio="true" tvg-id="plusradio.ch" tvg-name="Plus Radio CH" tvg-logo="https://plusradio.ch/wp-content/uploads/2022/01/cropped-cropped-PLUSRADIOv2-3.png" group-title="FreeTV Radio Schweiz",Plus Radio CH
+https://stream.plusradio.ch:8000/radio.mp3
