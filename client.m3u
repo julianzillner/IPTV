@@ -11,6 +11,8 @@ https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/chunk
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
 #EXTINF:-1 tvg-id="bundestag.de" tvg-name="Bundestag TV" tvg-logo="https://www.bundestag.de/resource/image/567154/16x9/750/422/707c55b851e517d7b1f1b72f30ca9319/nw/polizei_logo.jpg" group-title="FreeTV Deutschland",Bundestag TV
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/chunklist_b4872000_DVR_slde.m3u8
+#EXTINF:-1 tvg-id="deggendorf.niederbayern.tv" tvg-name="Niederbayern TV Deggendorf" tvg-logo="https://www.lokal-tv-portal.de/wp-content/uploads/2021/02/Sender_niederbayern-TV-Deggendorf-Straubing-240x120.jpg" group-title="FreeTV Deutschland",Niederbayern TV Deggendorf
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/chunklist_w808060960_b946000.m3u8
 #EXTINF:-1 tvg-id="abc.com" tvg-name="ABC" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/ABC-Logo-2007-2013.png" group-title="FreeTV USA",ABC
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="cnn.com" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="FreeTV USA",CNN
