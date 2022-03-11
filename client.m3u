@@ -35,8 +35,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&reb
 https://weltsfclips-vh.akamaihd.net/i/2021/11/03/20211103-150404_TrailerN24DokuNovember_TR000QFN_oL/20211103-150404_TrailerN24DokuNovember_TR000QFN_oL_,2000,1500,1000,200,.mp4.csmil/index_0_av.m3u8?null=0
 #EXTINF:-1 tvg-id="qmusic.nl" tvg-name="Qmusic NL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png" group-title="FreeTV Visual Radio",Qmusic NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-id="qmusic.be" tvg-name="Qmusic BE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1714px-Qmusic_logo.svg.png" group-title="FreeTV Visual Radio",Qmusic BE
-https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 #EXTINF:-1 tvg-id="538.nl" tvg-name="Radio 538" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/538_logo.png" group-title="FreeTV Visual Radio",Radio 538
 https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_3.m3u8
 #EXTINF:-1 tvg-id="westerwoldeactueel.nl" tvg-name="RTV Westerwolde" tvg-logo="https://groningen1.org/wp-content/uploads/2017/01/rtvwesterwolde-logo-300x94.png" group-title="FreeTV Visual Radio",RTV Westerwolde
@@ -87,5 +85,7 @@ http://mp3channels.webradio.antenne.de:80/antenne
 http://mp3channels.webradio.rockantenne.de/rockantenne
 #EXTINF:-1 radio="true" tvg-id="radiobonn.de" tvg-name="Radio Bonn/Rhein-Sieg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Radio_Bonn_Rhein-Sieg_Logo.svg/1280px-Radio_Bonn_Rhein-Sieg_Logo.svg.png" group-title="FreeTV Radio Deutschland",Radio Bonn/Rhein-Sieg
 https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high
+#EXTINF:-1 radio="true" tvg-id="radiofinn.de" tvg-name="Radio Finn" tvg-logo="https://julianzillner.de/wp-content/uploads/photo-gallery/thumb/radiofinn.png" group-title="FreeTV Radio Deutschland",Radio Finn
+https://stream.laut.fm/radiofinn
 #EXTINF:-1 radio="true" tvg-id="plusradio.ch" tvg-name="Plus Radio CH" tvg-logo="https://plusradio.ch/wp-content/uploads/2022/01/cropped-cropped-PLUSRADIOv2-3.png" group-title="FreeTV Radio Schweiz",Plus Radio CH
 https://stream.plusradio.ch:8000/radio.mp3
