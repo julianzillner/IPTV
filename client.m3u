@@ -89,3 +89,5 @@ https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high
 https://stream.laut.fm/radiofinn
 #EXTINF:-1 radio="true" tvg-id="plusradio.ch" tvg-name="Plus Radio CH" tvg-logo="https://plusradio.ch/wp-content/uploads/2022/01/cropped-cropped-PLUSRADIOv2-3.png" group-title="FreeTV Radio Schweiz",Plus Radio CH
 https://stream.plusradio.ch:8000/radio.mp3
+#EXTINF:-1 radio="true" tvg-id="radioonstwedde.nl" tvg-name="Radio Onstwedde" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/76904.v34.png" group-title="FreeTV Radio Niederlande",Radio Onstwedde
+https://stream.laut.fm/radioonstwedde
