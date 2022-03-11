@@ -85,3 +85,5 @@ https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
 http://mp3channels.webradio.antenne.de:80/antenne
 #EXTINF:-1 tvg-name="ROCK ANTENNE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png" group-title="FreeTV Radio Deutschland",ROCK ANTENNE
 http://mp3channels.webradio.rockantenne.de/rockantenne
+#EXTINF:-1 radio="true" tvg-id="radiobonn.de" tvg-name="Radio Bonn/Rhein-Sieg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Radio_Bonn_Rhein-Sieg_Logo.svg/1280px-Radio_Bonn_Rhein-Sieg_Logo.svg.png" group-title="FreeTV Radio Deutschland",Radio Bonn/Rhein-Sieg
+https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high
