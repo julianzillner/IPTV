@@ -45,8 +45,6 @@ https://media.rtvwesterwolde.nl/hls/live/index.m3u8
 https://wowza2.videostreamingwowza.com/Groningen1/Groningen1/chunklist_w1376201246.m3u8
 #EXTINF:-1 tvg-id="rtvdrenthe.nl" tvg-name="RTV Drenthe" tvg-logo="https://www.rtvdrenthe.nl/img/logo_rtvdrenthe.png" group-title="FreeTV Visual Radio",RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8
-#EXTINF:-1 tvg-id="radioveronica.nl" tvg-name="Radio Veronica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Radio-Veronica-logo.png/1200px-Radio-Veronica-logo.png" group-title="FreeTV Visual Radio",Radio Veronica
-https://radioveronica-nl.prd.talpatvcdn.nl/2a57a63df6e24b20a8b6b5f03b848d63/index_3.m3u8
 #EXTINF:-1 tvg-id="dasding.de" tvg-name="Das Ding" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dasding_2011.png" group-title="FreeTV Visual Radio", Das Ding
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master-720p-3328.m3u8
 #EXTINF:-1 tvg-id="radio10.nl" tvg-name="Radio 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Radio_10_logo_2019.svg/1200px-Radio_10_logo_2019.svg.png" group-title="FreeTV Visual Radio", Radio 10
