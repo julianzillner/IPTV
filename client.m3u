@@ -11,6 +11,8 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/chunklist_w2036746766_b3628000.m3u8
 #EXTINF:-1 tvg-id="deggendorf.niederbayern.tv" tvg-name="Niederbayern TV Deggendorf-Straubing" tvg-logo="https://www.lokal-tv-portal.de/wp-content/uploads/2021/02/Sender_niederbayern-TV-Deggendorf-Straubing-240x120.jpg" group-title="FreeTV Deutschland",Niederbayern TV Deggendorf
 https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/chunklist_w808060960_b946000.m3u8
+#EXTINF:-1 tvg-id="sr.de" tvg-name="SR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SR_Dachmarke.svg/2000px-SR_Dachmarke.svg.png" group-title="FreeTV Deutschland",SR
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
 #EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB Berlin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Rbbtvlogo2.jpg" group-title="FreeTV Deutschland",RBB Berlin
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
 #EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB Brandenburg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Rbbtvlogo2.jpg" group-title="FreeTV Deutschland",RBB Brandenburg
@@ -61,6 +63,8 @@ https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/61839
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="nasa.com" tvg-name="NASA TV Media" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="FreeTV USA",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="aljazeera.com" tvg-name="AL Jazeera Arabic Live" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="FreeTV Arab",AL Jazeera Arabic Live
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="spacetoon.com" tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="FreeTV Syrien",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1771675856_b1296000_slAR.m3u8
 #EXTINF:-1 radio="true" tvg-name="Radio Breitenberg" tvg-logo="https://julianzillner.de/wp-content/uploads/photo-gallery/thumb/radiobreitenberg.png" group-title="FreeTV Radio Deutschland",Radio Breitenberg
